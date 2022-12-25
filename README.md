@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Israel7Kernel
+- 👋 Hi, I’m @Hugo7Werven
 - 💻 I’m interested in Software Developers
 - 🤘🏽 I’m currently learning new programing lenguges
 - 🖤 I’m looking to collaborate in technological innovation projects and participate in technology events 
