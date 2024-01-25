@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hugo7Werven
+- 👋 Hi, I’m @Hugoxven7
 - 💻 I’m interested in Software Developers
 - 🤘🏽 I’m currently learning new programing lenguges
 - 🖤 I’m looking to collaborate in technological innovation projects and participate in technology events 
