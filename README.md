@@ -3,8 +3,8 @@
 - 🤘🏽 I’m currently learning new programing lenguges
 - 🖤 I’m looking to collaborate in technological innovation projects and participate in technology events 
 - 📫 How to reach me ...
-  EMAIL: israelaguilar@kerneldevelopers.tech
-  INSTA: Israel7Kernel
+  EMAIL: hugo.aguilar@xervendevelopers.tech
+
 
 <!---
 Israel7Kernel/Israel7Kernel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
